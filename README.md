@@ -177,3 +177,42 @@ AI-powered disaster coordination project developed during a 24-hour hackathon.
 
 </tr>
 </table>
+<br>
+
+## 🏆 Achievements
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🥇 AIR 4
+**Social Science Quiz**
+
+</td>
+
+<td width="50%" align="center">
+
+### 🚀 Top 7
+**Cypherverse 24-Hour Hackathon**
+
+145 teams participated
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=theneerajgrover&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theneerajgrover&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=theneerajgrover&theme=tokyonight&hide_border=true" />
+
+</div>
