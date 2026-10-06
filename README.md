@@ -73,3 +73,36 @@ Projects, hackathons, AI/ML, web development, and learning through hands-on work
 </td>
 </tr>
 </table>
+<br>
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,typescript" />
+</p>
+
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
+</p>
+
+### ⚙️ Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi" />
+</p>
+
+### 🧠 AI / Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
+</p>
+
+### 🔧 Tools & Design
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma" />
+</p>
