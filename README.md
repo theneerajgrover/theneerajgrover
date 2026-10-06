@@ -8,7 +8,33 @@
 
 </div>
 <br>
+<br>
 
+<div align="center">
+
+## 👋 Hi, I'm Neeraj Grover
+
+### AI/ML • Full-Stack Development • Software Development
+
+</div>
+
+<p align="center">
+  I build practical software and AI-powered applications by turning ideas into real, usable products.
+  <br>
+  Currently focused on strengthening my skills in <b>AI/ML, backend development, APIs, databases, and modern web technologies.</b>
+</p>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/theneerajgrover">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/theneerajgrover">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 <div align="center">
 
 <a href="https://linkedin.com/in/theneerajgrover">
