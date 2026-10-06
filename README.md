@@ -43,12 +43,15 @@
 
 <br>
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-I'm Neeraj Grover, a B.Tech student who enjoys learning by building and experimenting with new ideas. I like working on practical projects, solving problems, and collaborating with people who are equally curious about technology.
+I'm a B.Tech Robotics & Artificial Intelligence undergraduate focused on building practical software and AI-powered applications. I enjoy taking an idea from concept to a working product, combining AI/ML with full-stack development, APIs, databases, and modern web technologies.
+
+I'm particularly interested in AI/ML, computer vision, intelligent systems, and software engineering. Most of my learning comes through building real projects, experimenting with new technologies, and solving problems that have practical use.
 
 > **"I learn best when I build something real."**
 
+<br>
 <br>
 
 <table>
