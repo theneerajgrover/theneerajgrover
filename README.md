@@ -216,3 +216,10 @@ AI-powered disaster coordination project developed during a 24-hour hackathon.
 <img src="https://streak-stats.demolab.com?user=theneerajgrover&theme=tokyonight&hide_border=true" />
 
 </div>
+<br>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/theneerajgrover/theneerajgrover/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+</div>
