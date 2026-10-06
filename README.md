@@ -106,3 +106,74 @@ Projects, hackathons, AI/ML, web development, and learning through hands-on work
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,figma" />
 </p>
+<br>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🌱 AgroAI</h3>
+
+AI-powered soil health assessment and crop recommendation platform.
+
+<img src="./assets/agroai.png" width="100%">
+
+<p>
+<strong>Tech:</strong> React • TypeScript • FastAPI • PostgreSQL • TensorFlow
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🚨 Nexus ResQ</h3>
+
+AI-assisted disaster coordination platform designed to support emergency response and resource management.
+
+<img src="./assets/nexus-resq.png" width="100%">
+
+<p>
+<strong>Tech:</strong> React • TypeScript • FastAPI • PostgreSQL • AI
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🩺 CareTrack</h3>
+
+Smart symptom analysis platform focused on helping users understand symptoms through an interactive interface.
+
+<img src="./assets/caretrack.png" width="100%">
+
+<p>
+<strong>Tech:</strong> React • TypeScript • FastAPI • AI
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🏆 ResQ Pilot</h3>
+
+AI-powered disaster coordination project developed during a 24-hour hackathon.
+
+<p>
+<strong>Achievement:</strong> Top 7 among 145 teams
+</p>
+
+<p>
+<strong>Focus:</strong> Emergency coordination • AI agents • Resource management
+</p>
+
+</td>
+
+</tr>
+</table>
